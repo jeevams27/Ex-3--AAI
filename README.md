@@ -1,5 +1,5 @@
-<H3>NAME : PAUL ANDREW D</H3>
-<H3>REGISTER NO : 212221230075 </H3>
+<H3>NAME : JEEVA MS</H3>
+<H3>REGISTER NO : 212221230040 </H3>
 <H3>EX-NO : 3</H3>
 <H3>DATE : 07/09/2024</H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
